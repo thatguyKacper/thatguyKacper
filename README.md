@@ -3,6 +3,7 @@
 🔥 Web Developer passionate about modern technologies 💻 and continuous growth 🚀!
 
 For the past 3 years, I’ve been building dynamic, responsive web applications 🌐 for global clients 🌍.
+
 I mainly work with React.js ⚛️, TypeScript 🛠️, AstroJS 🚀, and Tailwind 🎨, aiming to grow into a full-stack developer and explore the world of DevOps 🛡️.
 
 💡 In my projects, I focus on quality, speed ⚡, clean code 📜, and excellent team collaboration 🤝.
